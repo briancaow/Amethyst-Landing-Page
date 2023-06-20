@@ -18,10 +18,10 @@ const Navbar = () => {
                   <span className="flex items-center space-x-2 text-2xl font-medium text-indigo-500 dark:text-gray-100">
                     <span>
                       <Image
-                        src="/img/LogoWithText.png"
+                        src="/img/AmethystLogo.png"
                         alt="Amethyst"
-                        width="200"
-                        height="50"
+                        width="32"
+                        height="32"
                         className="w-800"
                       />
                     </span>
